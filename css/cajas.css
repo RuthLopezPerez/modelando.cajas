@@ -1,13 +1,12 @@
-h1 {
-	color: #FFFF00;
-	text-align: center;
-	padding: 10px 10px;
-	margin: 10px 10px 20px 10px;
-
-
-}	
-div {
-	border: 8px solid red;;
-	background-color: #6633CC
-
+p{
+	border-style: solid;
+}
+.none{
+	border-bottom-style: none;  
+}
+.dotted{
+	border-bottom-style: dotted;
+}
+.dashed{
+	border-bottom-style: dashed;
 }
